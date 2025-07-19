@@ -1,12 +1,13 @@
 # Hi there! I'm Justin Ankrom 👋
 
-Welcome to my GitHub profile! I'm an Electrical and Computer Engineering student at Carnegie Mellon University, passionate about leveraging technology to solve real-world problems and enhance the quality of life.
+Welcome to my GitHub profile! I'm a software engineer at Meta and have a B.S. in Electrical and Computer Engineering student from Carnegie Mellon University, passionate about leveraging technology to solve real-world problems and enhance the quality of life.
 
 ## 🚀 About Me
 
 - 🎓 **Education**: B.S. in Electrical and Computer Engineering at Carnegie Mellon University | Expected Graduation: May 2025
-- 💼 **Experience**: 
-  - **Atlassian** (May 2024 – Present): Software Engineer Intern
+- 💼 **Experience**:
+  - **Meta** (July 2025 - Present): Software Engineer
+  - **Atlassian** (May 2024 – August 2024): Software Engineer Intern
     - Designed and implemented tracking metrics and visualization tools for key company features.
     - Created detailed usage charts and dashboards to enhance performance monitoring.
   - **HelixVM** (January 2024 – February 2024): Software Engineer Intern
