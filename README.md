@@ -1,6 +1,6 @@
 # Hi there! I'm Justin Ankrom 👋
 
-Welcome to my GitHub profile! I'm a software engineer at Meta and have a B.S. in Electrical and Computer Engineering student from Carnegie Mellon University, passionate about leveraging technology to solve real-world problems and enhance the quality of life.
+Welcome to my GitHub profile! I'm a software engineer at Meta and have a B.S. in Electrical and Computer Engineering from Carnegie Mellon University, passionate about leveraging technology to solve real-world problems and enhance the quality of life.
 
 ## 🚀 About Me
 
